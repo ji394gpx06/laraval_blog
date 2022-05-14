@@ -12,7 +12,7 @@
                 </li>
                 <li class="pd-1">
                     <a href="/blog">
-                        blog
+                        Blog
                     </a>
                 </li>
                 <li class="pd-1">
@@ -22,7 +22,7 @@
                 </li>
                 <li class="pd-1">
                     <a href="/register">
-                        register
+                        Register
                     </a>
                 </li>
 
